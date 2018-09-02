@@ -74,6 +74,7 @@ public class Repository extends Base{
 		else
 		{
 			Assert.assertTrue(true, "Login failed");
+			System.out.println("Hi");
 		}
 	}
 	
